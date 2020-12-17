@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome To MTGSquad Bot Hosting.
 
-You can use the [editor on GitHub](https://github.com/mtgsquad/mtgsquad-bot-hosting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You Can Use The Bot As A Real-Discord User By Downloading The Discord Bot Client Extension By [JTmaveryk](https://github.com/JTmaveryk) And Going To [The Discord Bot Client](https://discordbotclient.jtmaveryk.repl.co/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Bot Will Be Hosted In A Secure Space, You Will Have To Register The App, And Add It To Your Server Before You Login To The Bot Client With Your Bot Token.
 
-### Markdown
+### Private Automated Hosting.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pay $9.99 To Get Automated Bt Hosting. The Bot Will Have As Many Commands As You Like When You Buy It. When You Are Using The Free Tier You WIll Be Able To Set Up Only 2 Commands Of Your Choice.
 
-```markdown
-Syntax highlighted code block
+### Free Tier?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtgsquad/mtgsquad-bot-hosting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In Free Tier You Have To Install [JTmaveryk's](https://github.com/JTmaveryk/) [Chrome Extension](https://chrome.google.com/webstore/detail/discord-bot-client/dighjoofcdkhjloaeakagmfnbiehebbb) To Access [The Discord Bot Control Panel](https://discordbotclient.jtmaveryk.repl.co/). Now You Can Use The Bot Client. if You Want Free Tier Automated Then Please Leave Me An Email, [bot.hosting@mtgsquad.tk](mailto:bot.hosting@mtgsquad.tk), Put In The Commands You Need In The Email. Make Sure That You Have Added Your Bot User To The Discord Server You Need It In. Make Sure You Give The Bot Token As Well.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having Trouble With Bot Hosting? Email Us [ere.](mailto:support@mtgsquad.tk) Or Join My Discord Server [Here.](https://discord.gg/G2pkc8vtYX) And I'll Help you Out.
