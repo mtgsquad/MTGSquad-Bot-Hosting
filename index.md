@@ -6,7 +6,7 @@ The Bot Will Be Hosted In A Secure Space, You Will Have To Register The App, And
 
 ### Private Automated Hosting.
 
-Pay $9.99 To Get Automated Bot Hosting. The Bot Will Have As Many Commands As You Like When You Buy It. When You Are Using The Free Tier You WIll Be Able To Set Up Only 2 Commands Of Your Choice.
+Pay $4.99 To Get Automated Bot Hosting. The Bot Will Have As Many Commands As You Like When You Buy It. When You Are Using The Free Tier You WIll Be Able To Set Up Only 2 Commands Of Your Choice.
 
 ### Free Tier?
 
