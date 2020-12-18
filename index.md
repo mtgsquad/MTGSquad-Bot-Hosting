@@ -15,3 +15,5 @@ In Free Tier You Have To Install [JTmaveryk's](https://github.com/JTmaveryk/) [C
 ### Support or Contact
 
 Having Trouble With Bot Hosting? Email Us [Here.](mailto:support@mtgsquad.tk) Or Join My Discord Server [Here.](https://discord.gg/G2pkc8vtYX) And I'll Help you Out.
+
+### [Client Panel](https://discordbotclient.jtmaveryk.repl.co/) [JTmaveryk On GitHub](https://github.com/jtmaveryk) [MTGSquad On GitHub](https://github.com/mtgsquad/)
