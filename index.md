@@ -18,4 +18,4 @@ Having Trouble With Bot Hosting? Email Us [Here.](mailto:support@mtgsquad.tk) Or
 
 #### Links
 
-[Client Panel](http://discordbotclient.jtmaveryk.repl.co/) | [Discord](https://discord.gg/G2pkc8vtYX) | [MTGSquad On GitHub](https://github.com/mtgsquad/) | [Email Us](mailto:support@mtgsquad.tk)
+[Client Panel](http://discordbotclient.jtmaveryk.repl.co/) | [Discord](https://discord.gg/G2pkc8vtYX) | [Email Us](mailto:support@mtgsquad.tk) | [MTGSquad's GitHub](https://github.com/mtgsquad)
