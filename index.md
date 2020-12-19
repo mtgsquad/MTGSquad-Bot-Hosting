@@ -1,8 +1,8 @@
 ## Welcome To MTGSquad Bot Hosting.
 
-You Can Use The Bot As A Real-Discord User By Downloading The Discord Bot Client Extension By JTmaveryk And Going To [The Discord Bot Client](http://discordbotclient.jtmaveryk.repl.co/).
+We're Based In Karachi, Pakistan. We Are A Team Of Literally One Person, Who is Dedicated To Make Discord Bots Easier To Host. So Get your Hosting On Discount For $1.99. 
 
-The Bot Will Be Hosted In A Secure Space, You Will Have To Register The App, And Add It To Your Server Before You Login To The Bot Client With Your Bot Token.
+This Offer Is Only Valid Till 1st January Of 2021.
 
 ### Private Automated Hosting.
 
@@ -10,7 +10,7 @@ Pay $4.99 To Get Automated Bot Hosting. The Bot Will Have As Many Commands As Yo
 
 ### Free Tier?
 
-In Free Tier You Have To Install JTmaveryk's [Chrome Extension](https://chrome.google.com/webstore/detail/discord-bot-client/dighjoofcdkhjloaeakagmfnbiehebbb) To Access [The Discord Bot Control Panel](http://discordbotclient.jtmaveryk.repl.co/). Now You Can Use The Bot Client. If You Want Free Tier Automated Then Please Leave Me An Email, [bot.hosting@mtgsquad.tk](mailto:bot.hosting@mtgsquad.tk), Put In The Commands You Need In The Email. Make Sure That You Have Added Your Bot User To The Discord Server You Need It In. Make Sure You Give The Bot Token As Well.
+We Are Planning On Making Free Tier Easier To Get, You Can Still Get It By Leaving Me An Email [Here.](mailto:bot.hosting@mtgsquad.tk).
 
 ### Support or Contact
 
@@ -18,4 +18,4 @@ Having Trouble With Bot Hosting? Email Us [Here.](mailto:support@mtgsquad.tk) Or
 
 #### Links
 
-[Client Panel](http://discordbotclient.jtmaveryk.repl.co/) | [Discord](https://discord.gg/G2pkc8vtYX) | [Email Us](mailto:support@mtgsquad.tk) | [MTGSquad's GitHub](https://github.com/mtgsquad)
+[My Personal Web](http://mtgsquad.github.io/) | [Discord](https://discord.gg/G2pkc8vtYX) | [Email Us](mailto:support@mtgsquad.tk) | [MTGSquad's GitHub](https://github.com/mtgsquad)
