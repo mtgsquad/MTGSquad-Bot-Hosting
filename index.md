@@ -1,6 +1,6 @@
 ## Welcome To MTGSquad Bot Hosting.
 
-You Can Use The Bot As A Real-Discord User By Downloading The Discord Bot Client Extension By [JTmaveryk](https://github.com/JTmaveryk) And Going To [The Discord Bot Client](http://discordbotclient.jtmaveryk.repl.co/).
+You Can Use The Bot As A Real-Discord User By Downloading The Discord Bot Client Extension By JTmaveryk And Going To [The Discord Bot Client](http://discordbotclient.jtmaveryk.repl.co/).
 
 The Bot Will Be Hosted In A Secure Space, You Will Have To Register The App, And Add It To Your Server Before You Login To The Bot Client With Your Bot Token.
 
