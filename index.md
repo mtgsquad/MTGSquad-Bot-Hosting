@@ -10,7 +10,7 @@ Pay $4.99 To Get Automated Bot Hosting. The Bot Will Have As Many Commands As Yo
 
 ### Free Tier?
 
-In Free Tier You Have To Install [JTmaveryk's](https://github.com/JTmaveryk/) [Chrome Extension](https://chrome.google.com/webstore/detail/discord-bot-client/dighjoofcdkhjloaeakagmfnbiehebbb) To Access [The Discord Bot Control Panel](http://discordbotclient.jtmaveryk.repl.co/). Now You Can Use The Bot Client. if You Want Free Tier Automated Then Please Leave Me An Email, [bot.hosting@mtgsquad.tk](mailto:bot.hosting@mtgsquad.tk), Put In The Commands You Need In The Email. Make Sure That You Have Added Your Bot User To The Discord Server You Need It In. Make Sure You Give The Bot Token As Well.
+In Free Tier You Have To Install JTmaveryk's [Chrome Extension](https://chrome.google.com/webstore/detail/discord-bot-client/dighjoofcdkhjloaeakagmfnbiehebbb) To Access [The Discord Bot Control Panel](http://discordbotclient.jtmaveryk.repl.co/). Now You Can Use The Bot Client. If You Want Free Tier Automated Then Please Leave Me An Email, [bot.hosting@mtgsquad.tk](mailto:bot.hosting@mtgsquad.tk), Put In The Commands You Need In The Email. Make Sure That You Have Added Your Bot User To The Discord Server You Need It In. Make Sure You Give The Bot Token As Well.
 
 ### Support or Contact
 
@@ -18,4 +18,4 @@ Having Trouble With Bot Hosting? Email Us [Here.](mailto:support@mtgsquad.tk) Or
 
 #### Links
 
-[Client Panel](http://discordbotclient.jtmaveryk.repl.co/) | [JTmaveryk On GitHub](https://github.com/jtmaveryk) | [MTGSquad On GitHub](https://github.com/mtgsquad/)
+[Client Panel](http://discordbotclient.jtmaveryk.repl.co/) | [Discord](https://discord.gg/G2pkc8vtYX) | [MTGSquad On GitHub](https://github.com/mtgsquad/) | [Email Us](mailto:support@mtgsquad.tk)
