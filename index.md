@@ -16,6 +16,6 @@ We Are Planning On Making Free Tier Easier To Get, You Can Still Get It By Leavi
 
 Having Trouble With Bot Hosting? Email Us [Here.](mailto:support@mtgsquad.tk) Or Join My Discord Server [Here.](https://discord.gg/G2pkc8vtYX) And I'll Help you Out.
 
-#### Links
+##### Links
 
-[My Personal Web](http://mtgsquad.github.io/) | [Discord](https://discord.gg/G2pkc8vtYX) | [Email Us](mailto:support@mtgsquad.tk) | [MTGSquad's GitHub](https://github.com/mtgsquad)
+[Main Site](http://mtgsquad.github.io/) | [Discord](https://discord.gg/G2pkc8vtYX) | [Email Us](mailto:support@mtgsquad.tk) | [MTGSquad's GitHub](https://github.com/mtgsquad)
