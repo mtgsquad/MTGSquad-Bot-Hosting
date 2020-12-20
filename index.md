@@ -1,6 +1,6 @@
-## Welcome To MTGSquad Bot Hosting.
+## MTGSquad Bot Hosting.
 
-We're Based In Karachi, Pakistan. We Are A Team Of Literally One Person, Who is Dedicated To Make Discord Bots Easier To Host. So Get your Hosting On Discount For $1.99. 
+We're Based In Karachi, Pakistan. We Are A Team Of Literally Two People, Who Are Dedicated To Make Discord Bots Easier To Host. So Get your Hosting On Discount For $2.99. 
 
 This Offer Is Only Valid Till 1st January Of 2021.
 
